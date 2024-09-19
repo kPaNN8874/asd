@@ -1,0 +1,14 @@
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\bin\Debug\net8.0\Konyvtar.exe
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\bin\Debug\net8.0\Konyvtar.deps.json
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\bin\Debug\net8.0\Konyvtar.runtimeconfig.json
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\bin\Debug\net8.0\Konyvtar.dll
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\bin\Debug\net8.0\Konyvtar.pdb
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\obj\Debug\net8.0\Konyvtar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\obj\Debug\net8.0\Konyvtar.AssemblyInfoInputs.cache
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\obj\Debug\net8.0\Konyvtar.AssemblyInfo.cs
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\obj\Debug\net8.0\Konyvtar.csproj.CoreCompileInputs.cache
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\obj\Debug\net8.0\Konyvtar.dll
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\obj\Debug\net8.0\refint\Konyvtar.dll
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\obj\Debug\net8.0\Konyvtar.pdb
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\obj\Debug\net8.0\Konyvtar.genruntimeconfig.cache
+C:\Users\kelemen.panna\source\repos\Konyvtar\Konyvtar\obj\Debug\net8.0\ref\Konyvtar.dll
